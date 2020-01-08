@@ -12,16 +12,9 @@ h2 {
     border-radius: 50%;
   }
 
-.about {
-   margin-left: 450px;
-   margin-right: 450px; 
-}
-
 .aboutme {
    text-align: justify;
 }
-
-
 
 .card {
     margin-top: 100px;
@@ -30,11 +23,9 @@ h2 {
     background-color: rgb(209, 201, 201);
 }
 
-
-
 .pic {
-    margin-left: auto;
-    margin-right: auto;  
+    /* margin-left: auto;
+    margin-right: auto;   */
     margin-top: 20px;
     margin-bottom: 20px;  
     width: 100%;
@@ -48,3 +39,9 @@ h2 {
 .icon {
      width: 30px;
   }
+
+/* @media (max-width: 500px){
+    .about{
+            margin: 0 30px;
+    }
+} */
